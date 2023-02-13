@@ -6,3 +6,6 @@ In this process, I created a user interface for Scrumdinger with the basic build
 
 In the future process, I will be learning about common language patterns of the view hierarchy for Scrumdinger and display the contents of a collection. I will also learn about how to build a navigation hierarchy and present a modal view with its own navigation stack. 
 
+https://github.com/eunjujong/IOS_Scrumdinger_APP_DEV_Demo/blob/main/IOS%20Swift%20App%20Demo.png
+
+IOS Swift Tutorial Reference: https://developer.apple.com/tutorials/app-dev-training
